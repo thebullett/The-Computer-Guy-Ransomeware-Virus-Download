@@ -2,12 +2,9 @@
 import os
 import shutil
 
-print("Ransomeware built by The Computer Guy")
-print("Copyright 2020-2050 The Computer Guy. All Rights Reserved.")
-print("によって構築されたランサムウェア コンピューターガイ")
-print("著作権2020-2050 コンピューターガイ 全著作権所有。")
-print("תוכנת כופר שנבנתה על ידי איש המחשב")
-print("זכויות יוצרים 2020-2050 איש המחשב")
+print("Ransomeware built by The Computer Guy & EHO")
+print("Copyright 2020-2050 The Computer Guy & EHO. All Rights Reserved.")
+
 # getting the current working directory
 src_dir = os.getcwd()
 
